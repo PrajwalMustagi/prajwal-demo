@@ -1,4 +1,4 @@
 # prajwal-demo
 This is my first git repository.
 <br>
-Author - Prajwal
+Author - Prajwal M
